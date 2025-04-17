@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Main {
+class Main {x}
   public static void main(String[] args) {
     
     // DO NOT TOUCH THE FOLLOWING CODE
